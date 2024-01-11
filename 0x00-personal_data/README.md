@@ -1,9 +1,9 @@
 
 ## Personal user data
 
-<picture>
+
 ![userdata](https://github.com/michaelabiaw/alx-backend-user-data/assets/83102581/0d9eb672-0cbc-4edd-a000-20656cd53aeb)
-</picture>
+
 
 # Requirements
 - All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
